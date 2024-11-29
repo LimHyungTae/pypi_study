@@ -35,7 +35,7 @@ dependencies = [
 ]  
 
 [project.urls]
-Homepage = "https://github.com/LimHyungTae/pypi_study"
+Homepage = "https://github.com/LimHyungTae/pypi_study_with_hatchling"
 
 [tool.black]
 line-length = 100
