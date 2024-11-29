@@ -1,5 +1,4 @@
-# Pypi Study Using `pyproject.toml`
-
+# Pypi Study Using `hatchling` for pure Python Package
 
 ## Dependency
 
