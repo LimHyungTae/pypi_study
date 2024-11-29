@@ -25,3 +25,5 @@ Then, you can see the printed command lines as below:
 ![](/materials/1129_pypi_commandline.png)
 
 
+![](/materials/pypi_result.png)
+
