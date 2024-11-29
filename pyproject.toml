@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pypi_hyungtae"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python binding TEST"
 readme = "README.md"
 authors = [
@@ -29,6 +29,10 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
 ]
+
+dependencies = [
+    "numpy",
+]  
 
 [project.urls]
 Homepage = "https://github.com/LimHyungTae/pypi_study"
